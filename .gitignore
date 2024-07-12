@@ -1,0 +1,11 @@
+.idea/
+.git/
+**/*adapter*/
+**/data_base/
+resources/
+
+**/*dir*/
+
+**/T2KG_ChatGLM3/
+**/T2KG_XTuner/
+
